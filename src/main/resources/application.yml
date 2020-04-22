@@ -1,0 +1,15 @@
+first:
+  datasource:
+    url: jdbc:mysql://192.168.1.53:3306/hs_core?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=CTT&autoReconnect=true&failOverReadOnly=false
+    username: hs_admin
+    password: abc@123
+    driverClassName: com.mysql.jdbc.Driver
+
+second:
+  datasource:
+    url: jdbc:mysql://192.168.58.128:3306/gupao?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+    driverClassName: com.mysql.jdbc.Driver
+
+
